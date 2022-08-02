@@ -1,9 +1,9 @@
-# Calculator Project: HTML & CSS
+## Calculator Project: HTML & CSS
 Learn how to create the structure and appearance for the HTML and CSS of the calculator on iOS devices in the first part of the calculator exercise.
 
 This course is completely free as part of the Frontend Masters Online Bootcamp!
 
-## Table of Contents
+### Table of Contents
 #### Calculator: HTML & CSS
 - Calculator Setup
 - Adding Buttons

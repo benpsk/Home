@@ -1,11 +1,11 @@
-# Introduction to HTML
+## Introduction to HTML
 
 Learn the basics of HTML, like commonly-used elements and how to create a web page, how to add elements like links, headings, and images, and then practice your new skills by writing the markup for a book chapter.
 
 This course is completely free as part of the Frontend Masters Online Bootcamp! 
 
 
-## Table of Contents
+### Table of Contents
 #### Introduction
 - Introduction
 - VS Code Setup

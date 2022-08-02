@@ -1,9 +1,9 @@
-# Career Guidance
+## Career Guidance
 Learn how to utilize resources like personal websites, LinkedIn, and Twitter to present yourself well professionally and land a job after completing the bootcamp.
 
 This course is completely free as part of the Frontend Masters Online Bootcamp!
 
-## Table of Contents
+### Table of Contents
 #### Career Guidance
 - Introduction
 - Google Yourself
