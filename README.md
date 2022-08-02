@@ -1,2 +1,2 @@
-# courses-outline
-Programmming Guide Courses Outline
+# Courses Outline
+Programmming Guide
