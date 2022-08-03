@@ -16,23 +16,41 @@ Move up from professional web developer to a senior-level engineer. This path is
 
    - Duration - 10 hours, 32 minutes
 
-#### [3. Getting Started with CSS](./03-getting-started-with-css.md)
+#### [3. Complete Intro to React](./03-complete-intro-to-react.md)
 
-   Get to know CSS in the right way without the fluff. You'll style text, build navigation bars, headers/footers, add icons, and more. You'll even build a professional portfolio website by the end of the course!
+   Learn to build real-world applications using modern React! Much more than an intro, you’ll start from the ground up, getting to using the latest features in React, including hooks, effects, context, and portals. Throughout the course, you’ll piece together tools from the entire React ecosystem (like Parcel, ESLint, TailwindCSS, and React Router) to build a complete application to browse adoptable pets!
 
-   - Duration - 3 hours, 19 minutes
+   - Duration - 7 hours, 38 minutes
 
-#### [4. Getting Started with JavaScript](./04-getting-started-with-javascript.md)
+#### [4. TypeScript Fundamentals](./04-typescript-fundamentals.md)
 
-   Want to learn to code using JavaScript? This is a great place to start! In this course, you’ll start out with a tour of the basic building blocks programming like variables, loops, functions and operations. Then, you’ll go through the three main pillars of JavaScript: Types and Coercion for comparing values and converting between types, Scope and Closure for knowing where variables can be accessed, and JavaScript’s “this” and Prototype system for dynamic context.
+   Use TypeScript to add strong typing to large JavaScript apps helps reduce bugs and keeps code performant and maintainable. Learn key Typescript features such as typing variables and function signatures, abstract classes, interfaces, enums, and more – these features increase your ability to fix errors fast. Learn how to migrate your codebase to TypeScript the smart way and improve productivity while building large-scale TypeScript applications with ease!
 
-   - Duration - 3 hours, 19 minutes
+   - Duration - 4 hours, 27 minutes
 
-#### [05. Website Accessibility](./05-website-accessibility.md)
+#### [05. Functional JavaScript First Steps](./05-functional-javascript-first-steps.md)
 
-   Learn how to make your website applications accessible to a wider audience. Use keyboard shortcuts and navigation to help both power users and those with disabilities. Make sure your website works well with screen readers and explore using ARIA to make even the most complex UI's fully accessible!
+   In this friendly introduction to functional programming with JavaScript, you'll learn what Functional Programming (FP) is and how it differs from other programming styles (such as OO and imperative). You'll practice the key idea of doing everything with pure functions, learning to use higher-order functions and recursion to replace the iterative loops we're used to writing with for and while. You'll more to advanced techniques like closures, currying, and function composition and learn why immutable data is essential for functional programming.
 
-   - Duration - 2 hours, 52 minutes
+   - Duration - 3 hours, 54 minutes
+
+#### [06. Web Performance Fundamentals](./06-web-performance-fundamentals.md)
+
+   Build faster websites and web applications by learning the current metrics and techniques for improving web performance. We’ll look at the psychology of web performance and how users see wait time on your site. Then learn the new core web vitals metrics like first contentful paint (FCP), largest contentful paint (LCP), and cumulative layout shift (CLS), and how to improve each metric. Finally, we’ll discuss building a performance culture in your organization to start your applications fast from the beginning!
+
+   - Duration - 3 hours, 50 minutes
+
+#### [07. CSS Grid & Flexbox for Responsive Layouts](./07-css-grid-flexbox-for-responsive-layouts.md)
+
+   Learn the essential CSS layout techniques for building responsive, beautiful web applications. You'll get hands-on practice using CSS Grid for two-dimensional, grid-based layouts and Flexbox for styling one-directional flow. You'll master using these techniques together along with responsive images to build real-world, responsive web layouts!
+
+   - Duration - 5 hours, 49 minutes
+
+#### [08. Full Stack for Front-End Engineers](./08-full-stack-for-front-end-engineers.md)
+
+   Learn what it means to become a full-stack engineer! If you’re going to be a well rounded engineer, it’s important you understand what is happening on the server-side. In this course, you'll learn to move back and forth between UI and the back-end through the command line, SSH, nginx, docker containers, server security, HTTP/2, HTTP/3 and more.
+
+   - Duration - 6 hours, 19 minutes
 
    
 **Total Duration - 23 hours, 8 minutes**
