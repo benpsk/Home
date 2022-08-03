@@ -53,6 +53,6 @@ Move up from professional web developer to a senior-level engineer. This path is
    - Duration - 6 hours, 19 minutes
 
    
-**Total Duration - 23 hours, 8 minutes**
+**Total Duration - 49 hours, 10 minutes**
 
 

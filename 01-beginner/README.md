@@ -26,7 +26,7 @@ You'll start with introduction to web development and deep dive into JavaScript,
 
    Want to learn to code using JavaScript? This is a great place to start! In this course, you’ll start out with a tour of the basic building blocks programming like variables, loops, functions and operations. Then, you’ll go through the three main pillars of JavaScript: Types and Coercion for comparing values and converting between types, Scope and Closure for knowing where variables can be accessed, and JavaScript’s “this” and Prototype system for dynamic context.
 
-   - Duration - 3 hours, 19 minutes
+   - Duration - 2 hours, 36 minutes
 
 #### [05. Website Accessibility](./05-website-accessibility.md)
 
@@ -35,6 +35,6 @@ You'll start with introduction to web development and deep dive into JavaScript,
    - Duration - 2 hours, 52 minutes
 
    
-**Total Duration - 23 hours, 8 minutes**
+**Total Duration - 27 hours, 55 minutes**
 
 
