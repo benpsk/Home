@@ -73,4 +73,3 @@ Go under the hood of some of the most important aspects of JavaScript! You'll le
 
 #### Wrapping Up
 - Wrapping Up
-

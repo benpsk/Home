@@ -4,17 +4,17 @@ Move up from professional web developer to a senior-level engineer. This path is
 ### Core Coursework
 *(take these in order)*
 
-#### [1. JavaScript: The Hard Parts](./01-javascript-from-fundamentals-to-functional.md)
+#### [1. JavaScript: The Hard Parts](./01-javascript-the-hard-parts.md)
 
    Go under the hood of some of the most important aspects of JavaScript! You'll learn what you need to know to become a sought-after, versatile, problem-solving developer. Combining mental models of JavaScript's inner workings and hands-on programming challenges, this course will give you a solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript! This course is for developers with a basic to intermediate knowledge of JavaScript who wants to deepen their understanding of the fundamentals to the next level.
 
    - Duration - 6 hours, 41 minutes
 
-#### [2. Complete Intro to Web Development](./02-complete-intro-to-web-development.md)
+#### [2. Deep JavaScript Foundations](./02-deep-javascript-foundations.md)
 
-   More than an introduction, in this course you’ll go from building your first website to having the foundation for becoming a professional web developer with modern skills! By coding along in this course, you'll get experience writing HTML, the primary language for putting content on a page. CSS, a language designed to make your websites look tidy and aesthetically pleasing. And learn how to program, starting with a wonderful language to learn with, JavaScript. After this whirlwind tour of web development, you'll know how to write code with HTML, CSS & JavaScript. You'll learn to use your terminal to save your code with Git and as a small bonus primer, you'll get a taste of how to use JavaScript via Node.js to serve your website from a server!
+   Dive into the core pillars of the JavaScript language with Kyle Simpson, author of the popular, You Don't Know JS, book series. You'll learn JavaScript's types, how to convert between them, and compare them with == and ===. You'll also learn lexical scope and closure. As well as the objects oriented system (this, prototypes and classes).
 
-   - Duration - 11 hours, 5 minutes
+   - Duration - 10 hours, 32 minutes
 
 #### [3. Getting Started with CSS](./03-getting-started-with-css.md)
 
