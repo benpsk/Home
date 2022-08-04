@@ -1,8 +1,6 @@
 ## HTML FORMS
 Learn how to create forms using HTML and CSS. You’ll be able to differentiate between the different types of input fields that exist in HTML and when to use each one. Then, you’ll learn how to handle form submission, form submission issues, and form styling.
 
-This course is completely free as part of the Frontend Masters Online Bootcamp!
-
 ### Table of Contents
 #### Form Basics
 - Forms Setup

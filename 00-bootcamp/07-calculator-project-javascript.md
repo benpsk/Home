@@ -1,8 +1,6 @@
 ## Calculator Project: JavaScript
 Learn how to create the underlying functionality for the JavaScript of the calculator on iOS devices in the final part of the calculator exercise. You’ll practice breaking a problem down into simple, achievable steps, and end up with a working calculator that performs basic math operations.
 
-This course is completely free as part of the Frontend Masters Online Bootcamp!
-
 ### Table of Contents
 #### Calculator: JavaScript
 - Adding JavaScript to the Calculator

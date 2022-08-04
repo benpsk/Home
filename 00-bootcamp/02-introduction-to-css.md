@@ -1,8 +1,6 @@
 ## Introduction to CSS
 Learn the basics of CSS, like how to import styles into an HTML file, how to target specific elements on a page using selectors, useful tools, how to add spacing to a page, and a few ways to create basic layouts. Then, practice your new skills by coding the layout for a blog page.
 
-This course is completely free as part of the Frontend Masters Online Bootcamp!  
-
 ### Table of Contents
 #### CSS Basics
 - HTML File Setup
