@@ -101,3 +101,5 @@ A deep dive into JavaScript and functional programming techniques, this course i
 
 #### Wrapping Up "JavaScript: From Fundamentals to Functional JS"
 - Wrapping Up
+
+[BACK](./README.md)

@@ -47,3 +47,4 @@ Learn how to incorporate JavaScript into your websites by first seeing how to us
 - Load Event Solution
 - Additional Suggestions and Q&A
 
+[BACK](./README.md)

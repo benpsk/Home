@@ -145,3 +145,5 @@ Dive into the core pillars of the JavaScript language with Kyle Simpson, author 
 #### Wrapping Up
 - Wrapping Up
 - Bonus: Typl
+
+[BACK](./README.md)

@@ -45,3 +45,5 @@ In this friendly introduction to functional programming with JavaScript, you'll 
 
 #### Wrapping Up
 - Wrapping Up
+
+[BACK](./README.md)
