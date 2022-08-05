@@ -5,7 +5,7 @@ Use TypeScript to add strong typing to large JavaScript apps helps reduce bugs a
 <!-- Course Website (https://www.typescript-training.com/course/fundamentals-v3) -->
 <!-- Course Code (https://github.com/mike-north/ts-fundamentals-v3) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 

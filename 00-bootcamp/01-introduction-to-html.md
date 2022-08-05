@@ -2,7 +2,7 @@
 
 Learn the basics of HTML, like commonly-used elements and how to create a web page, how to add elements like links, headings, and images, and then practice your new skills by writing the markup for a book chapter.
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - VS Code Setup

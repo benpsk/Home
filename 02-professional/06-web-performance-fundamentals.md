@@ -4,7 +4,7 @@ Build faster websites and web applications by learning the current metrics and t
 
 <!-- Course Code (https://github.com/toddhgardner/perf-training-website) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 

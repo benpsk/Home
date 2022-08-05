@@ -4,7 +4,7 @@ Learn the essential CSS layout techniques for building responsive, beautiful web
 
 <!-- Course Website (https://frontendmasters.github.io/grid-flexbox-v2/) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - Responsive Design Overview

@@ -4,7 +4,7 @@ In this friendly introduction to functional programming with JavaScript, you'll 
 
 <!-- Course Code & Notes - Observable (https://observablehq.com/collection/@anjana/functional-javascript-first-steps) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 

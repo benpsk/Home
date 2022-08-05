@@ -6,7 +6,7 @@ Learn to build real-world applications using modern React! Much more than an int
 <!-- Course Repo (https://github.com/btholt/complete-intro-to-react-v7) -->
 <!-- Course Project Files (https://github.com/btholt/citr-v7-project) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 

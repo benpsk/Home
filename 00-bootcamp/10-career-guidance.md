@@ -1,7 +1,7 @@
 ## Career Guidance
 Learn how to utilize resources like personal websites, LinkedIn, and Twitter to present yourself well professionally and land a job after completing the bootcamp.
 
-### Table of Contents
+### Course Outline
 #### Career Guidance
 - Introduction
 - Google Yourself

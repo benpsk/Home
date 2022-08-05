@@ -1,7 +1,7 @@
 ## Using JavaScript in Websites
 Learn how to incorporate JavaScript into your websites by first seeing how to use third-party libraries and then creating two projects: an image carousel that uses JavaScript code, and then an application that retrieves data about dog breeds from an API.
 
-### Table of Contents
+### Course Outline
 #### Making an Image Gallery
 - Setup
 - Image Gallery HTML

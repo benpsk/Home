@@ -1,7 +1,7 @@
 ## HTML FORMS
 Learn how to create forms using HTML and CSS. You’ll be able to differentiate between the different types of input fields that exist in HTML and when to use each one. Then, you’ll learn how to handle form submission, form submission issues, and form styling.
 
-### Table of Contents
+### Course Outline
 #### Form Basics
 - Forms Setup
 - Form Tag

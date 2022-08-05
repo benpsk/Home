@@ -4,7 +4,7 @@ A deep dive into JavaScript and functional programming techniques, this course i
 <!-- Slides (Day 1) https://slides.com/bgando/f2f-final-day-1 -->
 <!-- Slides (Day 2) https://slides.com/bgando/f2f-final-day-2-->
 
-### Table of Contents
+### Course Outline
 #### JavaScript: From Fundamentals to Functional JS
 - Course Introduction
 - Success Tips for Learning

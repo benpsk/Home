@@ -5,7 +5,7 @@ Dive into the core pillars of the JavaScript language with Kyle Simpson, author 
 <!-- Course Slide (https://static.frontendmasters.com/resources/2019-03-07-deep-javascript-v2/deep-js-foundations-v2.pdf) -->
 <!-- [Code Exercises](./assets/02-deep-js-foundations-v2-exercises/)  -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - Understanding Your Code

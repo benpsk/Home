@@ -4,7 +4,7 @@ More than an introduction, in this course you’ll go from building your first w
 
 <!-- https://btholt.github.io/intro-to-web-dev-v2/ -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introducing Web Development
 - Tips for Coding Success

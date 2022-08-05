@@ -4,7 +4,7 @@ Want to learn to code using JavaScript? This is a great place to start! In this 
 <!-- (Course slides) https://static.frontendmasters.com/resources/2019-05-08-getting-into-javascript/getting-into-javascript.pdf -->
 <!-- [Course Code](./assets/04-getting-into-javascript/)  -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - Course Overview

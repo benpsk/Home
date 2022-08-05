@@ -4,7 +4,7 @@ Learn what it means to become a full-stack engineer! If you’re going to be a w
 
 <!-- Course Slides (https://docs.google.com/presentation/d/1Mvf_rOFz1wZeH1irajJqhRQgzid7BkqJBd8wigpz39M/edit?usp=sharing) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - Why Full Stack

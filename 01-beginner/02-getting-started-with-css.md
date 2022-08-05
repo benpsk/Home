@@ -4,7 +4,7 @@ Get to know CSS in the right way without the fluff. You'll style text, build nav
 <!-- https://gettingstartedwith.css.education/ -->
 
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - Course Overview

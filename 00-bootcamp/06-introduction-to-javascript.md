@@ -1,7 +1,7 @@
 ## Introduction to JavaScript
 Learn the basics of JavaScript, like its primitives, how to control the flow of a program, what scope is and why it matters, and data structures that can be used in programming. Then, practice your new skills in two exercises: by coding quiz questions that demonstrate important JavaScript concepts and by making a set of tests written in JavaScript pass. Finally, learn about the DOM, an essential part of building web pages.
 
-### Table of Contents
+### Course Outline
 #### JavaScript Basics
 - Introduction
 - JavaScript Overview

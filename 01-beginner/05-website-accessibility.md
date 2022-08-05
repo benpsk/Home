@@ -5,7 +5,7 @@ Learn how to make your website applications accessible to a wider audience. Use 
 <!-- Course Website (https://learn-a11y.netlify.app/) -->
 <!-- Course Repo (https://github.com/jkup/learn-a11y) -->
 
-### Table of Contents
+### Course Outline
 #### Introduction
 - Introduction
 - What is Accessibility
