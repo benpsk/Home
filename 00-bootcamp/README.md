@@ -11,6 +11,8 @@ Get a complete, ground up introduction to HTML, CSS and JavaScript. You'll also 
 Take your first steps in building websites by first learning how the web works!
 
 This course is aimed at beginners to give you the foundational knowledge of how the web works. You'll take a look at the terminology of web servers, web services, and the devices we use to use the internet. You'll also see how files and folders created on our computers can be assembled to create a web page that can be uploaded onto a server and viewed on the internet!
+   - Duration - 2 hours, 6 minutes
+
 
 #### [01. Introduction to HTML](./01-introduction-to-html.md)
    Learn the basics of HTML, like commonly-used elements and how to create a web page, how to add elements like links, headings, and images, and then practice your new skills by writing the markup for a book chapter.
@@ -52,6 +54,6 @@ This course is aimed at beginners to give you the foundational knowledge of how 
    Learn how to utilize resources like personal websites, LinkedIn, and Twitter to present yourself well professionally and land a job after completing the bootcamp.
    - Duration - 1 hours, 32 minutes
 
-**Total Duration - 23 hours, 8 minutes**
+**Total Duration - 25 hours, 14 minutes**
 
 [BACK](../README.md)
